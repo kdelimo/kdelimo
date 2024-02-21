@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kdelimo
 - 👀 I’m interested in Linux, sports and gaming.
 - 🌱 I’m currently learning python and java.
-- 💞️ I’m looking to collaborate on symfony libraries.
+- 💞️ I’m looking to help coding communities.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: This was not ai generated. :)
 
