@@ -2,7 +2,6 @@
 - 👀 I’m interested in Linux, sports and gaming.
 - 🌱 I’m currently learning python and java.
 - 💞️ I’m looking to collaborate on symfony libraries.
-- 📫 How to reach me ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: This was not ai generated. :)
 
